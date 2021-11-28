@@ -1,0 +1,10 @@
+name: QParty
+main: quietw.party.QParty
+version: 1.0
+depend:
+  - QChat
+commands:
+  party:
+    aliases:
+      - p
+      - company

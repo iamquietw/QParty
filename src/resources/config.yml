@@ -1,0 +1,16 @@
+partyChatFormat: "&9КОМПАНИЯ &f> %player %message"
+partyCreated: "&9Компания &fсоздана."
+playerNotFound: '&cИгрок не найден.'
+playerLeft: '&9КОМПАНИЯ &f> %player покинул компанию.'
+partyLeft: '&cВы покинули компанию.'
+leaderLeft: '&cЛидер покинул компанию и она была разрушена.'
+alreadyInParty: '&cИгрок уже в компании.'
+invitedToParty: '&9КОМПАНИЯ &f> %leader пригласил тебя в компанию. Присоединиться - &a/party accept %leader'
+playerInvited: '&9КОМПАНИЯ &f> %invited приглашён в компанию.'
+playerJoined: '&9КОМПАНИЯ &f> %player присоединился к компании.'
+noInvites: '&cУ вас нет приглашений.'
+notInParty: '&cВы не в компании.'
+notLeader: '&cВы не являетесь лидером компании.'
+playerKicked: '&cИгрок исключён из компании.'
+kicked: '&cВас исключили из компании.'
+notMember: '&cИгрок не в твоей компании.'
