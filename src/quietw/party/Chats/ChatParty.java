@@ -3,7 +3,6 @@ package quietw.party.Chats;
 import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;
 import quietw.party.Database.DatabaseEditor;
-import quietw.party.QParty;
 import quietw.qchat.Chat.Chat;
 import quietw.qchat.Chat.ChatLocal;
 import quietw.qchat.Database.DBEditor;
@@ -12,7 +11,6 @@ import java.sql.Connection;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
-import java.util.Objects;
 
 import static quietw.party.Utils.ConfigMessages.getMessage;
 
